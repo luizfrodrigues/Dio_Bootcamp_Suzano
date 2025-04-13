@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+# Ignorar a pasta do ambiente virtual Python
+.venv/
+
+# Opcional: Ignorar toda a pasta .idea (geralmente recomendado)
+.idea/
+
+
